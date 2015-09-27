@@ -7,8 +7,8 @@ having an average of the variables for each sibject and activity.
 
 Description of the variables:
 
-Subject_ID: the subject id as mentioned in the subject_test.txt and subject_train.txt
-ActivityName: the activity name from activity_labels.txt and y_test.txt/y_train.txt 
+* Subject_ID: the subject id as mentioned in the subject_test.txt and subject_train.txt
+* ActivityName: the activity name from activity_labels.txt and y_test.txt/y_train.txt 
 
 1. tBodyAcc-mean()-X : Time domain Body Acceleration Mean - X Axis
 2. tBodyAcc-mean()-Y : Time domain Body Acceleration Mean - Y Axis
